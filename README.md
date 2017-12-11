@@ -1,2 +1,2 @@
 # ADODB-Query
-Simple vbscript made to quety a ADODB to JSON.
+Simple vbscript made to query a ADODB to JSON.
